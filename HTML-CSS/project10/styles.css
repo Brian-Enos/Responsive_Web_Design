@@ -1,0 +1,68 @@
+h1 {
+  font-size: 36px;
+  font-weight: 700px;
+  text-align: center;
+  color: #333;
+
+}
+
+.first {
+  font-size: 18px;
+  text-align: center;
+  color: rgb(0,0,255);
+}
+
+body {
+  font-family: Arial, Tahoma;
+  background-color:  #f1f1f1;
+  margin: 5px 20px;
+  padding: 20px 15px;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+
+}
+
+.imag-div {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#img-caption {
+  font-style: italic;
+  font-size: 14px;
+  color: rgb(0,20,0);
+  padding: 20px 0;
+}
+
+ul #tribute {
+  padding: 0 0;
+  margin-left: 60px;
+
+}
+
+#tribute-info {
+  text-align: center;
+  font-weight: bold;
+
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.footer {
+  margin-left: 60px;
+  font-style: italic;
+  padding: 10px;
+}
+
+.bottom {
+  font-size: 16;
+  font-weight: bold;
+
+}
