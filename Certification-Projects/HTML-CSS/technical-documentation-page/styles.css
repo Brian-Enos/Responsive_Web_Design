@@ -32,6 +32,10 @@ header {
   font-weight: 600;
 }
 
+#main-doc header:hover {
+  color: rgb(13, 170, 181);
+}
+
 #navbar ul {
   height: 88%;
   padding: 0;
